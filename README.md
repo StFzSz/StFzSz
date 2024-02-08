@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+
 
 
 ### Databases
@@ -25,7 +27,3 @@ Here are some ideas to get you started:
 
 
 
-
-
-<!-- https://streak-stats.demolab.com/demo/ -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=sdserranoa&theme=tokyonight-duo&hide_border=true&border_radius=10&hide_current_streak=true)](https://git.io/streak-stats)
