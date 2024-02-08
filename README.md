@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![STATA](https://img.shields.io/badge/STATA-003366?style=for-the-badge&logo=STATA&logoColor=white)
 
 
 
